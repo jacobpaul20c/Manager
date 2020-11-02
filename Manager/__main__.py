@@ -49,7 +49,7 @@ Hello My name is *{}*.!
    - in PM: will send you your settings for all supported modules.
    - in a group: will redirect you to pm, with all that chat's settings.
  
-Pls note this is a project of [Jacob](t.me/jacob_paul1).
+█▓▒░░⋆⟁⃤𝙜𝙖𝙮𝙖𝙩𝙝𝙧𝙞 ™⋆░░▒▓█*BOT WAS MAINTAINED BY[
 
 {}
 And the following:
