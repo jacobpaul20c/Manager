@@ -22,11 +22,19 @@ from Manager.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 HOYA {}, my name is {}!
 
+┈┈┈╲┈┈┈┈╱
+┈┈┈╱▔▔▔▔╲
+┈┈┃┈▇┈┈▇┈┃
+╭╮┣━━━━━━┫╭╮
+┃┃┃┈┈┈┈┈┈┃┃┃
+╰╯┃┈┈┈┈┈┈┃╰╯
+┈┈╰┓┏━━┓┏╯
+┈┈┈╰╯┈┈╰╯
 🌀* AH GROUP MANAGEMENT... IT'S ALL FUN AND GAMES YOU KNOW HOW TO HARD IT IS⚠️.</b> Sometimes To Manage Group So Here is The Solution For You*🤝
 
 🌀* MY CREATOR IS *  [『𝔸ʟ℘нส ℙнεøηเא』᚜ 𝙳𝚞𝚕𝚚𝚞𝚎𝚛 ᚛ CʏʙᴇʀPʀᴏGᴀɴɢ™️🇮🇳](t.me/jacob_paul1)
 
-🌀*Click /help or Help button below to find out more about how to use me to my full potential.*
+🌀*Click /help or Help button below to find out more about how to use me to my full potential.☣️*
 """
 
 HELP_STRINGS = """
