@@ -30,7 +30,7 @@ HOYA {}, my name is {}!
 ╰╯┃┈┈┈┈┈┈┃╰╯
 ┈┈╰┓┏━━┓┏╯
 ┈┈┈╰╯┈┈╰╯
-🌀* AH GROUP MANAGEMENT... IT'S ALL FUN AND GAMES YOU KNOW HOW TO HARD IT IS⚠️.</b> Sometimes To Manage Group So Here is The Solution For You*🤝
+🌀* AH GROUP MANAGEMENT... IT'S ALL FUN AND GAMES YOU KNOW HOW TO HARD IT IS⚠️.Sometimes To Manage Group So Here is The Solution For You*🤝
 
 🌀* MY CREATOR IS *  [『𝔸ʟ℘нส ℙнεøηเא』᚜ 𝙳𝚞𝚕𝚚𝚞𝚎𝚛 ᚛ CʏʙᴇʀPʀᴏGᴀɴɢ™️🇮🇳](t.me/jacob_paul1)
 
@@ -49,7 +49,7 @@ Hello My name is *{}*.!
    - in PM: will send you your settings for all supported modules.
    - in a group: will redirect you to pm, with all that chat's settings.
  
-Pls note this is a project of [jp](t.me/jacob_paul1).
+Pls note this is a project of [Jacob](t.me/jacob_paul1).
 
 {}
 And the following:
