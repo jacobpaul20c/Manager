@@ -20,46 +20,16 @@ from Manager.modules.helper_funcs.chat_status import is_user_admin
 from Manager.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-HOYA {}, my name is {}!
-
-┉┉╱▔▔▔▔╲
-┉╱┉╱▔▔╲┉╲
-▕┉┉▏┉┉▕┉┉▏
-▕┉┉▏┉┉▕┉┉▏
-┉╲┉╲▂▂╱┉╱
-┉┉╲▂┉┉▂╱
-┉┉┉▕┉┉▏
-┉┉┉▕┉┉▏
-┉▕▔▔┉┉▔▔▏
-┉┉▔▔▏▕▔▔
-┉┉┉┉▏▕
-┉┉┉┉▔▔
-
-🌀* AH GROUP MANAGEMENT... IT'S ALL FUN AND GAMES YOU KNOW HOW TO HARD IT IS⚠️.Sometimes To Manage Group So Here is The Solution For You*🤝
-
-🌀* MY CREATOR IS *  [『𝔸ʟ℘нส ℙнεøηเא』᚜ 𝙳𝚞𝚕𝚚𝚞𝚎𝚛 ᚛ CʏʙᴇʀPʀᴏGᴀɴɢ™️🇮🇳](t.me/jacob_paul1)
-
-🌀*Click /help or Help button below to find out more about how to use me to my full potential.☣️*
+You don't have the right to do this.
 """
 
 HELP_STRINGS = """
-Hello My name is *{}*.!
-*GAYATHRI Bot with advanced features.*
-*IMPORTANT* commands available:
- - /start: start the bot
- - /help: PM's you this message.
- - /help <module name>: PM's you info about that module.
- - /donation: information about how to donate!
- - /settings:
-   - in PM: will send you your settings for all supported modules.
-   - in a group: will redirect you to pm, with all that chat's settings.
- 
-█▓▒░░⋆⟁⃤𝙜𝙖𝙮𝙖𝙩𝙝𝙧𝙞 ™⋆░░▒▓█*BOT WAS MAINTAINED BY*[⧼JαƈσႦ⧽](t.me/fun_heat)
+You can't access this!
 
 {}
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
-DONATE_STRING = """Heya, glad to hear you want to donate! I'm not accepting any donations right now, still, if needed, drop a thanks to @xditya."""
+DONATE_STRING = """Soory now we don't need"""
 
 IMPORTED = {}
 MIGRATEABLE = []
