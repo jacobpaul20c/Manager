@@ -20,11 +20,11 @@ from Manager.modules.helper_funcs.chat_status import is_user_admin
 from Manager.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-You don't have the right to do this.
+You don't have the right to use this.
 """
 
 HELP_STRINGS = """
-You can't access this!
+You can't access these plugins....
 
 {}
 And the following:
